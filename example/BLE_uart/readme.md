@@ -3,12 +3,12 @@
 1. You will need to install "nRF Connect"
 2. Activate Bluetooth and connect to "T-Color"
  
-![](../../image/Relay_BLE_uart1.png)
+![](../../image/ble/BLE_1.jpg)
 
 3. Send 'H' to ON the relay
 
-![](../../image/Relay_BLE_uart2.png)
+![](../../image/ble/BLE_2.png)
 
-4. Send 'L' to OFF the relay
+1. Send 'L' to OFF the relay
  
-![](../../image/Relay_BLE_uart3.png)
+![](../../image/ble/BLE_3.png)
