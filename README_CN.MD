@@ -11,16 +11,11 @@
 
 <h3 align = "left">Product 📷:</h3>
 
-| Product | Product  Link |
-| :-----: | :-----------: |
-| T-Color |   [淘宝]()    |
+| Product |                                                Product  Link                                                |
+| :-----: | :---------------------------------------------------------------------------------------------------------: |
+| T-Color | [淘宝](https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-23579470099.9.1005566dyFTp8O&id=668475165844) |
 
 ## Pinout
 
-![](image/T-Color.jpg)
-
-
-
-
-
+![](image/T-Color-CN.jpg)
 

@@ -14,13 +14,13 @@
 
 <h3 align = "left">Product 📷:</h3>
 
-| Product | Product  Link  |
-| :-----: | :------------: |
-| T-Color | [AliExpress]() |
+| Product |                           Product  Link                            |
+| :-----: | :----------------------------------------------------------------: |
+| T-Color | [AliExpress](https://pt.aliexpress.com/item/1005003930136483.html) |
 
 ## Pinout
 
-![](image/T-Color.jpg)
+![](image/T-Color-EN.jpg)
 
 
 
