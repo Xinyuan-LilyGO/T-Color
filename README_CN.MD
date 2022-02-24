@@ -7,7 +7,9 @@
 1. 安装 Arduino IDE  [Arduino website](http://www.arduino.cc/en/main/software).
 2. 打开Arduino，打开“文件” ->“首选项”，附加开发板管理器的url添加: https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json 
 3. 选择“工具” -> 开发板选择 -> ESP32C3 Dev Module
-
+4. 复制'lib'下的文件到'~Arduino/libraries'
+5. 需要依赖的库
+   [Adafruit_DotStar](https://github.com/adafruit/Adafruit_DotStar)
 
 <h3 align = "left">Product 📷:</h3>
 
