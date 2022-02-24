@@ -12,7 +12,8 @@
 4. Select Tools -> Board -> ESP32C3 Dev Module
 5. Copy the folder in the 'lib' directory to '~Arduino/libraries'
 6. Need to install the following dependencies
-   [Adafruit_DotStar](https://github.com/adafruit/Adafruit_DotStar)
+
+[Adafruit_DotStar](https://github.com/adafruit/Adafruit_DotStar)
 
 
 <h3 align = "left">Product 📷:</h3>
