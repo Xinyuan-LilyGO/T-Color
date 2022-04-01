@@ -1,4 +1,4 @@
-<h1 align = "center">🌟LILYGO T-01C3🌟</h1>
+<h1 align = "center">🌟LILYGO T-Color🌟</h1>
 
 1. You will need to install "nRF Connect"
 2. Activate Bluetooth and connect to "T-Color"
