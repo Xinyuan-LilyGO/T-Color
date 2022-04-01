@@ -1,5 +1,3 @@
-# T-Color
-
 <h1 align = "center">🌟LILYGO T-Color🌟</h1>
 
 ## **[English](./README.MD) | [中文](./README_CN.MD)**
